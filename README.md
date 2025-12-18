@@ -6,5 +6,5 @@ This application allows you to keep a record of important things and information
 
 **Side-by-Side Comparison:**
 
-<img width="811" height="927" alt="Screenshot 2025-12-18 091211" src="https://github.com/user-attachments/assets/ef21c579-e75f-46ac-83fd-b60292810870" />
 
+<img width="1173" height="714" alt="Screenshot 2025-12-18 071608" src="https://github.com/user-attachments/assets/d62094f8-32f8-498c-8f0f-b4cc88db034a" />
